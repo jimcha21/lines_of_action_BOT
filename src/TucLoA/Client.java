@@ -88,7 +88,7 @@ public class Client {
 						AlphaBetaSearch search = new AlphaBetaSearch(gamePosition);
 						//inputs: deapth,enable AlphaBeta Pruning, enable Singular extensions, enable Forward Pruning, aggression....
 		    	    	
-						Move bestmove = search.makeDecision(gamePosition, myColor, 5,true,true,true,true); 
+						Move bestmove = search.makeDecision(gamePosition, myColor, 6,true,true,true,true); 
 												
 						myMove[0]=bestmove.x_start;
 						myMove[1]=bestmove.y_start;
