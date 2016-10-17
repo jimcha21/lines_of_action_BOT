@@ -5,5 +5,7 @@ The java classes that contains the code for the ab-minimax and the other technic
 
 ![alt tag](https://github.com/jimcha21/LinesOfAction/blob/master/Capture.PNG)
 
+The Server files and the Game simulator isn't uploaded for copyrights reasons. If you want to share them with you, just let me know.
+
 # Licence
  Apache 2.0
